@@ -1,0 +1,108 @@
+[25-Jul-2016 01:43:59 America/Chicago] PHP Parse error:  syntax error, unexpected 'style' (T_STRING) in /home/bismillah/public_html/seba/member-list.php on line 85
+[25-Jul-2016 01:47:56 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/bismillah/public_html/seba/member-list.php on line 93
+[29-Jul-2016 08:24:50 America/Chicago] PHP Parse error:  syntax error, unexpected 'sum' (T_STRING), expecting ',' or ';' in /home/bismillah/public_html/seba/balance-to-balance-report.php on line 114
+[29-Jul-2016 08:25:17 America/Chicago] PHP Parse error:  syntax error, unexpected 'sum' (T_STRING), expecting ',' or ';' in /home/bismillah/public_html/seba/balance-to-balance-report.php on line 114
+[29-Jul-2016 09:13:12 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/bismillah/public_html/seba/balance-to-balance-report.php on line 223
+[29-Jul-2016 10:55:15 America/Chicago] PHP Warning:  file_get_contents(): Filename cannot be empty in /home/bismillah/public_html/seba/response.php on line 1357
+[29-Jul-2016 10:59:34 America/Chicago] PHP Warning:  fopen(): Filename cannot be empty in /home/bismillah/public_html/seba/response.php on line 1325
+[29-Jul-2016 10:59:34 America/Chicago] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/bismillah/public_html/seba/response.php on line 1326
+[29-Jul-2016 10:59:34 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/bismillah/public_html/seba/response.php on line 1327
+[29-Jul-2016 11:01:27 America/Chicago] PHP Warning:  fopen(): Filename cannot be empty in /home/bismillah/public_html/seba/response.php on line 1324
+[29-Jul-2016 11:01:27 America/Chicago] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/bismillah/public_html/seba/response.php on line 1325
+[29-Jul-2016 11:01:27 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/bismillah/public_html/seba/response.php on line 1326
+[29-Jul-2016 11:03:05 America/Chicago] PHP Warning:  fopen(): Filename cannot be empty in /home/bismillah/public_html/seba/response.php on line 1324
+[29-Jul-2016 11:03:05 America/Chicago] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/bismillah/public_html/seba/response.php on line 1325
+[29-Jul-2016 11:03:05 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/bismillah/public_html/seba/response.php on line 1326
+[29-Jul-2016 11:08:42 America/Chicago] PHP Warning:  fopen(): Filename cannot be empty in /home/bismillah/public_html/seba/response.php on line 1324
+[29-Jul-2016 11:08:42 America/Chicago] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/bismillah/public_html/seba/response.php on line 1325
+[29-Jul-2016 11:08:42 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/bismillah/public_html/seba/response.php on line 1326
+[29-Jul-2016 11:08:52 America/Chicago] PHP Warning:  fopen(): Filename cannot be empty in /home/bismillah/public_html/seba/response.php on line 1324
+[29-Jul-2016 11:08:52 America/Chicago] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/bismillah/public_html/seba/response.php on line 1325
+[29-Jul-2016 11:08:52 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/bismillah/public_html/seba/response.php on line 1326
+[29-Jul-2016 11:19:05 America/Chicago] PHP Warning:  fopen(): Filename cannot be empty in /home/bismillah/public_html/seba/response.php on line 1324
+[29-Jul-2016 11:19:05 America/Chicago] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/bismillah/public_html/seba/response.php on line 1325
+[29-Jul-2016 11:19:05 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/bismillah/public_html/seba/response.php on line 1326
+[29-Jul-2016 11:22:22 America/Chicago] PHP Warning:  fopen(): Filename cannot be empty in /home/bismillah/public_html/seba/response.php on line 1324
+[29-Jul-2016 11:22:22 America/Chicago] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/bismillah/public_html/seba/response.php on line 1325
+[29-Jul-2016 11:22:22 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/bismillah/public_html/seba/response.php on line 1326
+[29-Jul-2016 11:23:35 America/Chicago] PHP Warning:  fopen(): Filename cannot be empty in /home/bismillah/public_html/seba/response.php on line 1324
+[29-Jul-2016 11:23:35 America/Chicago] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/bismillah/public_html/seba/response.php on line 1325
+[29-Jul-2016 11:23:35 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/bismillah/public_html/seba/response.php on line 1326
+[29-Jul-2016 11:25:18 America/Chicago] PHP Warning:  fopen(): Filename cannot be empty in /home/bismillah/public_html/seba/response.php on line 1324
+[29-Jul-2016 11:25:18 America/Chicago] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/bismillah/public_html/seba/response.php on line 1325
+[29-Jul-2016 11:25:18 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/bismillah/public_html/seba/response.php on line 1326
+[29-Jul-2016 11:49:37 America/Chicago] PHP Warning:  fopen(): Filename cannot be empty in /home/bismillah/public_html/seba/response.php on line 1324
+[29-Jul-2016 11:49:37 America/Chicago] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/bismillah/public_html/seba/response.php on line 1325
+[29-Jul-2016 11:49:37 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/bismillah/public_html/seba/response.php on line 1326
+[29-Jul-2016 12:11:09 America/Chicago] PHP Warning:  fopen(): Filename cannot be empty in /home/bismillah/public_html/seba/response.php on line 1324
+[29-Jul-2016 12:11:09 America/Chicago] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/bismillah/public_html/seba/response.php on line 1325
+[29-Jul-2016 12:11:09 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/bismillah/public_html/seba/response.php on line 1326
+[29-Jul-2016 12:11:52 America/Chicago] PHP Warning:  fopen(): Filename cannot be empty in /home/bismillah/public_html/seba/response.php on line 1324
+[29-Jul-2016 12:11:52 America/Chicago] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/bismillah/public_html/seba/response.php on line 1325
+[29-Jul-2016 12:11:52 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/bismillah/public_html/seba/response.php on line 1326
+[29-Jul-2016 12:12:04 America/Chicago] PHP Warning:  fopen(): Filename cannot be empty in /home/bismillah/public_html/seba/response.php on line 1324
+[29-Jul-2016 12:12:04 America/Chicago] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/bismillah/public_html/seba/response.php on line 1325
+[29-Jul-2016 12:12:04 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/bismillah/public_html/seba/response.php on line 1326
+[29-Jul-2016 12:12:41 America/Chicago] PHP Warning:  fopen(): Filename cannot be empty in /home/bismillah/public_html/seba/response.php on line 1324
+[29-Jul-2016 12:12:41 America/Chicago] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/bismillah/public_html/seba/response.php on line 1325
+[29-Jul-2016 12:12:41 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/bismillah/public_html/seba/response.php on line 1326
+[29-Jul-2016 12:13:41 America/Chicago] PHP Warning:  fopen(): Filename cannot be empty in /home/bismillah/public_html/seba/response.php on line 1324
+[29-Jul-2016 12:13:41 America/Chicago] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/bismillah/public_html/seba/response.php on line 1325
+[29-Jul-2016 12:13:41 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/bismillah/public_html/seba/response.php on line 1326
+[29-Jul-2016 12:13:59 America/Chicago] PHP Warning:  fopen(): Filename cannot be empty in /home/bismillah/public_html/seba/response.php on line 1324
+[29-Jul-2016 12:13:59 America/Chicago] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/bismillah/public_html/seba/response.php on line 1325
+[29-Jul-2016 12:13:59 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/bismillah/public_html/seba/response.php on line 1326
+[29-Jul-2016 12:28:21 America/Chicago] PHP Warning:  fopen(): Filename cannot be empty in /home/bismillah/public_html/seba/response.php on line 1324
+[29-Jul-2016 12:28:21 America/Chicago] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/bismillah/public_html/seba/response.php on line 1325
+[29-Jul-2016 12:28:21 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/bismillah/public_html/seba/response.php on line 1326
+[29-Jul-2016 12:55:45 America/Chicago] PHP Warning:  fopen(): Filename cannot be empty in /home/bismillah/public_html/seba/response.php on line 1324
+[29-Jul-2016 12:55:45 America/Chicago] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/bismillah/public_html/seba/response.php on line 1325
+[29-Jul-2016 12:55:45 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/bismillah/public_html/seba/response.php on line 1326
+[29-Jul-2016 13:02:55 America/Chicago] PHP Warning:  fopen(): Filename cannot be empty in /home/bismillah/public_html/seba/response.php on line 1324
+[29-Jul-2016 13:02:55 America/Chicago] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/bismillah/public_html/seba/response.php on line 1325
+[29-Jul-2016 13:02:55 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/bismillah/public_html/seba/response.php on line 1326
+[29-Jul-2016 13:12:58 America/Chicago] PHP Warning:  fopen(): Filename cannot be empty in /home/bismillah/public_html/seba/response.php on line 1324
+[29-Jul-2016 13:12:58 America/Chicago] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/bismillah/public_html/seba/response.php on line 1325
+[29-Jul-2016 13:12:58 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/bismillah/public_html/seba/response.php on line 1326
+[29-Jul-2016 13:24:13 America/Chicago] PHP Warning:  fopen(): Filename cannot be empty in /home/bismillah/public_html/seba/response.php on line 1324
+[29-Jul-2016 13:24:13 America/Chicago] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/bismillah/public_html/seba/response.php on line 1325
+[29-Jul-2016 13:24:13 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/bismillah/public_html/seba/response.php on line 1326
+[29-Jul-2016 13:29:17 America/Chicago] PHP Warning:  fopen(): Filename cannot be empty in /home/bismillah/public_html/seba/response.php on line 1324
+[29-Jul-2016 13:29:17 America/Chicago] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/bismillah/public_html/seba/response.php on line 1325
+[29-Jul-2016 13:29:17 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/bismillah/public_html/seba/response.php on line 1326
+[29-Jul-2016 13:35:24 America/Chicago] PHP Warning:  fopen(): Filename cannot be empty in /home/bismillah/public_html/seba/response.php on line 1324
+[29-Jul-2016 13:35:24 America/Chicago] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/bismillah/public_html/seba/response.php on line 1325
+[29-Jul-2016 13:35:24 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/bismillah/public_html/seba/response.php on line 1326
+[29-Jul-2016 13:35:50 America/Chicago] PHP Warning:  fopen(): Filename cannot be empty in /home/bismillah/public_html/seba/response.php on line 1324
+[29-Jul-2016 13:35:50 America/Chicago] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/bismillah/public_html/seba/response.php on line 1325
+[29-Jul-2016 13:35:50 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/bismillah/public_html/seba/response.php on line 1326
+[29-Jul-2016 13:50:31 America/Chicago] PHP Warning:  fopen(): Filename cannot be empty in /home/bismillah/public_html/seba/response.php on line 1324
+[29-Jul-2016 13:50:31 America/Chicago] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/bismillah/public_html/seba/response.php on line 1325
+[29-Jul-2016 13:50:31 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/bismillah/public_html/seba/response.php on line 1326
+[29-Jul-2016 13:54:35 America/Chicago] PHP Warning:  fopen(): Filename cannot be empty in /home/bismillah/public_html/seba/response.php on line 1324
+[29-Jul-2016 13:54:35 America/Chicago] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/bismillah/public_html/seba/response.php on line 1325
+[29-Jul-2016 13:54:35 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/bismillah/public_html/seba/response.php on line 1326
+[30-Jul-2016 01:26:42 America/Chicago] PHP Warning:  fopen(): Filename cannot be empty in /home/bismillah/public_html/seba/response.php on line 1324
+[30-Jul-2016 01:26:42 America/Chicago] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/bismillah/public_html/seba/response.php on line 1325
+[30-Jul-2016 01:26:42 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/bismillah/public_html/seba/response.php on line 1326
+[30-Jul-2016 01:30:17 America/Chicago] PHP Fatal error:  Cannot pass parameter 15 by reference in /home/bismillah/public_html/seba/response.php on line 1356
+[30-Jul-2016 09:24:17 America/Chicago] PHP Warning:  file_get_contents(): Filename cannot be empty in /home/bismillah/public_html/seba/response.php on line 1323
+[30-Jul-2016 09:26:08 America/Chicago] PHP Warning:  file_get_contents(): Filename cannot be empty in /home/bismillah/public_html/seba/response.php on line 1323
+[30-Jul-2016 09:27:02 America/Chicago] PHP Warning:  file_get_contents(): Filename cannot be empty in /home/bismillah/public_html/seba/response.php on line 1323
+[30-Jul-2016 09:34:16 America/Chicago] PHP Warning:  file_get_contents(): Filename cannot be empty in /home/bismillah/public_html/seba/response.php on line 1323
+[30-Jul-2016 09:35:25 America/Chicago] PHP Warning:  file_get_contents(): Filename cannot be empty in /home/bismillah/public_html/seba/response.php on line 1323
+[30-Jul-2016 09:41:51 America/Chicago] PHP Warning:  file_get_contents(): Filename cannot be empty in /home/bismillah/public_html/seba/response.php on line 1323
+[30-Jul-2016 09:44:51 America/Chicago] PHP Warning:  file_get_contents(): Filename cannot be empty in /home/bismillah/public_html/seba/response.php on line 1323
+[30-Jul-2016 09:45:39 America/Chicago] PHP Warning:  file_get_contents(): Filename cannot be empty in /home/bismillah/public_html/seba/response.php on line 1323
+[30-Jul-2016 23:40:11 America/Chicago] PHP Warning:  file_get_contents(): Filename cannot be empty in /home/bismillah/public_html/seba/response.php on line 1323
+[30-Jul-2016 23:44:56 America/Chicago] PHP Warning:  file_get_contents(): Filename cannot be empty in /home/bismillah/public_html/seba/response.php on line 1323
+[30-Jul-2016 23:52:51 America/Chicago] PHP Warning:  file_get_contents(): Filename cannot be empty in /home/bismillah/public_html/seba/response.php on line 1323
+[30-Jul-2016 23:54:43 America/Chicago] PHP Warning:  file_get_contents(): Filename cannot be empty in /home/bismillah/public_html/seba/response.php on line 1323
+[01-Aug-2016 01:55:06 America/Chicago] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/bismillah/public_html/seba/user-edit.php on line 20
+[01-Aug-2016 01:55:06 America/Chicago] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/bismillah/public_html/seba/user-edit.php on line 22
+[01-Aug-2016 01:55:06 America/Chicago] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/bismillah/public_html/seba/user-edit.php on line 36
+[01-Aug-2016 11:46:34 America/Chicago] PHP Parse error:  syntax error, unexpected 'Order' (T_STRING) in /home/bismillah/public_html/seba/member-account-Report.php on line 99
+[01-Aug-2016 11:47:00 America/Chicago] PHP Parse error:  syntax error, unexpected 'Order' (T_STRING) in /home/bismillah/public_html/seba/member-account-Report.php on line 99
+[01-Aug-2016 11:47:05 America/Chicago] PHP Parse error:  syntax error, unexpected 'order' (T_STRING) in /home/bismillah/public_html/seba/member-account-Report.php on line 99
+[01-Aug-2016 11:47:07 America/Chicago] PHP Parse error:  syntax error, unexpected 'order' (T_STRING) in /home/bismillah/public_html/seba/member-account-Report.php on line 99
+[01-Aug-2016 11:47:28 America/Chicago] PHP Parse error:  syntax error, unexpected 'order' (T_STRING) in /home/bismillah/public_html/seba/member-account-Report.php on line 99
